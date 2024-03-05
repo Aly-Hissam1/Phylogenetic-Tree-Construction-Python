@@ -3,10 +3,15 @@
 Hello and thank you for visiting my Python phylogenetic tree application. This application is meant to generate a phylogenetic tree from a multi-FASTA file containing the sequence of a gene in multiple species using three distinct algorithms: Maximum Likelihood, Maximum Parsimony, and K-mer Alignment-Free.
 
 The program is written in Python and requires the installation of the following modules:
+
 •	BioPython
+
 •	Numpy
+
 •	Matplotlib
+
 •	NumPy
+
 •	Pandas
 
 To execute the application, you must supply the Multi-FASTA file containing gene sequences from many species.
